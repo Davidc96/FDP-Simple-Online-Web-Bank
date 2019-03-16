@@ -1,2 +1,2 @@
 # FDP-Simple-Online-Web-Bank
-A simple online Web Bank. Back End written in Java and Front-End written in PHP.
+A simple online Web Bank. Back End is written in Java and Front-End is written in PHP.
